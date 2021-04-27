@@ -38,10 +38,10 @@ When everyone is done, look through your ideas and pick approximately five that 
 ***
 
 ### WANT THE ORIGINAL DECK?  
-While you can access them online, you can also buy a full set of *Oblique Strategies* online as well as other decks inspired by Eno and Schmidt:  
+While you can access them online, you can also buy a full set of *Oblique Strategies* as well as other decks inspired by Eno and Schmidt:  
 
-* [Full deck of Oblique Strategies](https://www.enoshop.co.uk/product/oblique-strategies.html)  
+* [Original deck of *Oblique Strategies*](https://www.enoshop.co.uk/product/oblique-strategies.html)  
 * Abandon Normal Devices' [*Abandon Normal Strategies*](https://www.andfestival.org.uk/ans), a set of additional cards by new media artists  
-* [*Grotesque Tables II*](https://www.grotesquetablesii.com/faqmobile) by Noah Wall, where all cards are anagrams of the originals  
+* [*Grotesque Tables II*](https://www.grotesquetablesii.com/faqmobile) by Noah Wall, where all cards are anagrams of Eno and Schmidt's originals  
 * If you have a ton of money lying around, you can also buy a copy of Marshall McLuhan's [*Distant Early Warning* cards](https://ericmcluhan.com/bookshop/#cards)  
 
