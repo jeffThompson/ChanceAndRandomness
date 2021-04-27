@@ -2,15 +2,13 @@
 
 > "The conclusion that Dada drew from all this was that chance must be recognized as a new stimulus to artistic creation." — Hans Richter, *Dada: Art and Anti-Art*  
 
-> "I use chance operations instead of operating according to my likes and dislikes." — John Cage
+> "The project of life is to be in grace with chance." — André Breton  
 
-In 1933, artist Jean Arp made a piece titled [*According to the Laws of Chance*](https://www.tate.org.uk/art/artworks/arp-according-to-the-laws-of-chance-t05005) where he dropped pieces of torn black paper onto a sheet of white paper.
-
-According to Arp:
+In 1933, artist Jean Arp made a piece titled [*According to the Laws of Chance*](https://www.tate.org.uk/art/artworks/arp-according-to-the-laws-of-chance-t05005) where he dropped pieces of torn black paper onto a sheet of white paper. According to Arp:
 
 > "Since the arrangement of planes and their proportions and colours seemed to hinge solely on chance, I declared that these works were arranged 'according to the laws of chance,' as in the order of nature, chance being for me simply a part of an inexplicable reason, of an inaccessible order." (1974)
 
-The rather balanced composition and other works, like the 1930 [*Constellation According to the Laws of Chance*](https://www.tate.org.uk/art/artworks/arp-constellation-according-to-the-laws-of-chance-t00242), suggest that perhaps "chance" here is more about surprise than actually leaving things as they fall. But for our purposes, we'll embrace the spirit of the piece's title as a starting point for this workshop.
+The rather balanced composition of this and other works, like the 1930 [*Constellation According to the Laws of Chance*](https://www.tate.org.uk/art/artworks/arp-constellation-according-to-the-laws-of-chance-t00242), suggest that perhaps "chance" here is more about undoing habits in the studio (more on that later) than actually leaving things exactly as they fell. But for our purposes, we'll embrace the spirit of the piece's title as a starting point for this workshop.
 
 ### INSTRUCTIONS  
 * Take several pieces of paper and tear them into random shapes  
@@ -27,5 +25,5 @@ Feel free to play with the "rules" here and see what happens! For example:
   * Always dropping from the center of the composition  
   * Opening a window or going outside to let wind take over  
   * Stand on a chair, on your roof, with your eyes closed, etc  
-* If you have different colored papers, try white on black, white on white, black on black, etc  
+* If you have colored papers, try white on black, white on white, black on black, etc  
 

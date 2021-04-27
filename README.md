@@ -2,7 +2,7 @@
 
 > "So much of life, it seems to me, is determined by pure randomness." — Sidney Poitier  
 
-> "The project of life is to be in grace with chance." — André Breton  
+> "I use chance operations instead of operating according to my likes and dislikes." — John Cage  
 
 During this one-day workshop, we'll explore chance and randomness as tools for making art. Through a series of exercises and in the context of lots of historical examples–from visual art, music, popular culture, science, and technology–we'll investigate the creative potential of letting go of artistic decisions and collaborating with chance and randomness.
 
