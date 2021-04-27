@@ -1,3 +1,5 @@
+![A cropped version of Jean Arp's 1933 piece "According to the Laws of Chance," made of torn black paper dropped onto a white background](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/ActivityHeaders/JeanArp_AccordingToTheLawsOfChance_1933-HEADER.jpg)
+
 # GRAVITY DRAWINGS
 
 > "The conclusion that Dada drew from all this was that chance must be recognized as a new stimulus to artistic creation." — Hans Richter, *Dada: Art and Anti-Art*  
