@@ -12,7 +12,7 @@ Arp's idea of chance is in collaboration with the physical world: tiny air curre
 
 In all of these, it's best not to think too much, just make marks quickly and see what results from the accumulation!
 
-*Above: a detail of [Vera Molnar's "Letters from My Mother"](https://collections.vam.ac.uk/item/O216188/letters-from-my-mother-print-molnar-vera) from 1988*
+*Above: a detail of [Vera Molnar's "Letters from My Mother"](https://collections.vam.ac.uk/item/O216188/letters-from-my-mother-print-molnar-vera) from 1988, which uses code to approximate the increasingly disordered handwriting in her mother's letters*
 
 ***
 
