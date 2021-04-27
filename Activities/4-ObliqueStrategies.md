@@ -1,3 +1,5 @@
+![Side-by-side image of Marshall McLuhan's 1969 "Distant Early Warning" and Abandon Normal Devices' 2020 "Abandon Normal Strategies" card decks; on the left, a deck of cards with a label showing several parachutes and a stack of decks behind it, on the right a hand holding a card that reads "Thank your ancestors for your ideas. Write out their names. Given by Nora Al-Badri."](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/ActivityHeaders/DistantEarlyWarning-AbandonNormalStrategies-CardDecks.jpg)
+
 # OBLIQUE STRATEGIES    
 
 > "The tornado [in *The Wizard of Oz*] is just such an untrustworthy, sinuous, shifting shape. Random, unfixed, it wrecks the plain shapes of that no-frills life." – Salman Rushdie  
@@ -8,7 +10,11 @@ Want your own set?
 * [Buy them from Brian Eno for £40](https://www.enoshop.co.uk/product/oblique-strategies.html)  
 * [Abandon Normal Devices has additional cards by new media artists](https://www.andfestival.org.uk/ans)  
 * [*Grotesque Tables II*](https://www.grotesquetablesii.com/faqmobile) by Noah Wall, where all cards are anagrams of the originals  
+* If you have a ton of money lying around, you can also buy a copy of Marshall McLuhan's [*Distant Early Warning* cards](https://ericmcluhan.com/bookshop/#cards)  
 
+*Above: Marshall McLuhan's "Distant Early Warning" (1969) and Abandon Normal Devices' "Abandon Normal Strategies" (2020) card decks*
+
+***
 
 ### USING THE CARDS  
 
@@ -21,7 +27,7 @@ The instructions card reads:
 Our process:  
 1. 
 
-
+***
 
 ### MAKING OUR OWN CARD SET  
 With some experience with Eno and Schmidt's cards, we'll create our own set of prompts together. Take some time alone to write as many prompts as you can think of.
