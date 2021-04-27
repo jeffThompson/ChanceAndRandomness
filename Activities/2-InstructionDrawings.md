@@ -1,4 +1,4 @@
-![Vera Molnar's 1990 work "Letters from My Mother," a drawing made in blue ballpoint pen that resembles handwriting that turns increasingly chaotic](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/ActivityHeaders/VeraMolnar-LettersFromMyMother-1990.png)
+![Vera Molnar's 1988 work "Letters from My Mother," a drawing made in blue ballpoint pen that resembles handwriting that turns increasingly chaotic](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/ActivityHeaders/VeraMolnar-LettersFromMyMother-1988.png)
 
 # INSTRUCTION DRAWINGS  
 
@@ -12,7 +12,7 @@ Arp's idea of chance is in collaboration with the physical world: tiny air curre
 
 In all of these, it's best not to think too much, just make marks quickly and see what results from the accumulation!
 
-*Above: a detail of [Vera Molnar's "Letters from My Mother"](https://collections.vam.ac.uk/item/O216188/letters-from-my-mother-print-molnar-vera)*
+*Above: a detail of [Vera Molnar's "Letters from My Mother"](https://collections.vam.ac.uk/item/O216188/letters-from-my-mother-print-molnar-vera) from 1988*
 
 ***
 
