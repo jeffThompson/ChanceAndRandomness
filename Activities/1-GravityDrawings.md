@@ -1,4 +1,4 @@
-![A cropped version of Jean Arp's 1933 piece "According to the Laws of Chance," made of torn black paper dropped onto a white background](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/ActivityHeaders/JeanArp_AccordingToTheLawsOfChance_1933-HEADER.jpg)
+![A cropped version of Jean Arp's 1933 piece "According to the Laws of Chance," made of torn black paper dropped onto a white background](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/ActivityHeaders/JeanArp-AccordingToTheLawsOfChance-1933.jpg)
 
 # GRAVITY DRAWINGS
 
