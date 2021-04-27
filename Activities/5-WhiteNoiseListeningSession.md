@@ -53,5 +53,5 @@ While we won't listen to these today, you might also want to check out these oth
 * Holly Herndon's [*Proto*](https://hollyherndon.bandcamp.com/album/proto) (2019)  
 * Steve Reich's [*Music for 18 Musicians*](https://www.youtube.com/watch?v=ILpCKQlDmhc) (1978)  
 * Merzbow's [*Woodpecker No. 1*](https://www.youtube.com/watch?v=uaYyMaQnqzA) (1996, flash warning)  
-* Want more? I did a [two-hour radio show on chance and randomness in music and sound for WGXC](https://wavefarm.org/radio/wgxc/schedule/076wjf) 😊  
+* Want more? I did a [two-hour radio show on chance and randomness](https://wavefarm.org/radio/wgxc/schedule/076wjf) in music and sound for WGXC 😊  
 
