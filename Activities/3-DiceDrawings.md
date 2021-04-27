@@ -1,3 +1,5 @@
+![A detail of "Shaehft" by James Sienna, flowing blue ripple patterns made with watercolor on an off-white background](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/ActivityHeaders/JamesSiena-Shaehft-WatercolorOnPaper-2020.jpg)
+
 # COIN AND DICE DRAWINGS  
 
 > "[Things that are] determined in general but depends on chance in details." — Werner Meyer-Eppler (1955)  
@@ -9,6 +11,9 @@ Having experienced a few different approaches to allowing chance into our drawin
 **This is an algorithm!**  
 We hear the word "algorithm" a lot but really it just means a set of instructions, like a recipe, and that's exactly what we're making here! It's not such a huge leap into writing code to make drawings as well, which affords use the power of speed and repetition to make images that would be impossible otherwise.
 
+*Above: a detail of ["Shaehft"](https://www.instagram.com/p/B-pKPZanjIC) by James Sienna; "Built on an armature of two phased cropped circuits, color is applied into wet zones delimited by the phased voids, which are formed by the interlaced progressions. Random event, caused by water, coexists with structural emergent logic."*
+
+***
 
 ### COIN TOSS  
 Dice provide more complex inputs (six or more options, one per side) but to start we'll use a coin toss, which gives us just two options. Write down an action for heads and one for tails, thinking about the instruction drawings we did earlier and how you might encode mark-making. 
@@ -28,6 +33,7 @@ If you need/want to use a digital coin toss instead, try these:
 * https://justflipacoin.com  
 * https://www.random.org/coins  
 
+***
 
 ### DICE DRAWINGS  
 The coin toss limits us to a binary choice. But dice, either the usual six-sided variety or something more exotic, allow for more randomness and variation. Like with the coin toss, write down an action to be carried out for each side of the die.
