@@ -1,3 +1,5 @@
+![On the left, a black-and-white image of two men in military uniform standing in a room of computer equipment and two very large turntables; on the right, a messy shelf full of liquor bottles, a radio, and electronics equipment](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/ActivityHeaders/SIGSALY-RandomOrgRadioSetup.jpg)
+
 # WHITE NOISE LISTENING SESSION  
 
 > "The first concern of all music in one way or another is to shatter the indifference of hearing, the callousness of sensibility, to create that moment of solution we call poetry, our rigidity dissolved when we occur reborn – in a sense hearing for the first time." – [Lucia Dlugoszewski](https://en.wikipedia.org/wiki/Lucia_Dlugoszewski)  
@@ -6,6 +8,9 @@
 
 We'll take a pause from making things to spend some time trying to experience randomness, which we can think of as the mathematically-rigorous version of chance. While we can find randomness across many different arts fields, we'll focus here on sound, first listening to white noise (essentially just random values being heard one at a time in very rapid succession), followed by musical/sound works that embrace and push against the idea of randomness.
 
+*Above: [SIGSALY WWII secure communications system](https://en.wikipedia.org/wiki/SIGSALY) using carefully-made records of white noise (left) and the [original random.org random number-generating system](https://www.random.org/history) using an untuned radio (right)*
+
+***
 
 ### WHITE NOISE  
 
@@ -20,6 +25,7 @@ In the 20th century, defining, creating, and measuring true randomness became im
 | **Congruential**<br>([spectrum](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/WhiteNoiseSpectrumAnalysis/Congruential/Congruential-Spectrograph-TINTED.png)) | <ul><li>Pseudo random</li><li>Not crypto secure</li></ul> | An early algorithm for generating pseudo-random numbers, the `Congruential` generator uses its previous output to feed into the algorithm and generate new values. Using specially chosen values in the equation, this generator can have a long period of generation before it repeats, though significantly less than the other algorithms.<br><br>A bit between the `Type 1390-B` and `AES_OFB` generators, `Congruential` sounds less harsh than newer algorithms, retaining a vintage quality. |
 | **dev/random**<br>([spectrum](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/WhiteNoiseSpectrumAnalysis/dev-random/devrandom-Spectrograph-TINTED.png)) | <ul><li>True random</li><li>Cryptographically secure</li></ul> | This generator is a mix of physical and algorithm, using entropy from the computer’s hard drive to feed a pseudo-random number generator. Like most cryptographic generators, slow generation is considered a positive quality, and `dev/random` will stop working until sufficient entropy is built up again.<br><br>From the Mac OSX manual page for the function: “The quality of its output is however dependent on regular addition of appropriate entropy... Paranoid programmers can counteract this risk somewhat by collecting entropy of their choice.”<br><br>The sound of `dev/random` tends to be clear but less harsh than `AES_OFB`. | 
 
+***
 
 ### DEEP LISTENING    
 The goal here will be to try to hear the subtle differences in sound (and randomness) of each source. Performer, composer, and leading figure in experimental/electronic music [Pauline Oliveros](https://en.wikipedia.org/wiki/Pauline_Oliveros#Deep_listening) coined the term "deep listening" in 1988: 
@@ -33,6 +39,7 @@ Take a moment and...
 * Lie on the floor (preferable) or sit (fine too) in a way that's comfortable  
 * Take a moment to focus on the task of listening  
 
+***
 
 ### OTHER MUSIC/SOUNDS  
 Having experienced varying degrees of randomness as sound, we'll listen to (parts of) a few pieces that move towards order to various degrees:
@@ -42,6 +49,7 @@ Having experienced varying degrees of randomness as sound, we'll listen to (part
 3. Steve Reich's [*Pendulum Music*](https://www.youtube.com/watch?v=5iidNStQRDc) (1968), performed by Sonic Youth (1999): "I never have been close to John Cage but this piece was a way of saying 'OK, here it is but it isn't!'" ([via](https://www.furious.com/perfect/ohm/reich.html))  
 
 While we won't listen to these today, you might also want to check out:  
+* \[coming soon\]  
 * Ryoji Ikeda  
 * Holly Herndon's *Proto*  
 * Pink noise  
