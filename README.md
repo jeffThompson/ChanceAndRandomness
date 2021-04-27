@@ -13,10 +13,10 @@ Along the way, we'll discuss the differences between chance, randomness, informa
 ### WORKSHOP MATERIALS  
 You can use the section at the top to access the materials we used in class (and a bunch of stuff we don't have time to explore). 
 
-* Activities: the exercises we will do together, includes links and further resources  
-* Images: lots of examples, historical and contemporary  
-* Readings: required and suggested readings  
-* Resources: miscellaneous stuff, including a lot of things we didn't have time to cover  
+* `Activities`: the exercises we will do together, includes links and further resources  
+* `Images`: lots of examples, historical and contemporary  
+* `Readings`: required and suggested readings  
+* `Resources`: miscellaneous stuff, including a lot of things we didn't have time to cover  
 
 ***
 
