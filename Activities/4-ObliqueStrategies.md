@@ -37,7 +37,7 @@ When everyone is done, look through your ideas and pick approximately five that 
 
 ***
 
-### WANT YOUR OWN SET?  
+### WANT THE ORIGINAL DECK?  
 While you can access them online, you can also buy a full set of *Oblique Strategies* online as well as other decks inspired by Eno and Schmidt:  
 
 * [Full deck of Oblique Strategies](https://www.enoshop.co.uk/product/oblique-strategies.html)  
