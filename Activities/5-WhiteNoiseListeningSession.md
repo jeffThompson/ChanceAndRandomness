@@ -48,10 +48,10 @@ Having experienced varying degrees of randomness as sound, we'll listen to (part
 2. Christian Marclay's [*Record Without a Cover*](https://www.youtube.com/watch?v=4QArTJnze6c) (1999): a vinyl record in a blank sleeve with the instructions: "Do not store in a protective package"  
 3. Steve Reich's [*Pendulum Music*](https://www.youtube.com/watch?v=5iidNStQRDc) (1968), performed by Sonic Youth (1999): "I never have been close to John Cage but this piece was a way of saying 'OK, here it is but it isn't!'" ([via](https://www.furious.com/perfect/ohm/reich.html))  
 
-While we won't listen to these today, you might also want to check out:  
+While we won't listen to these today, you might also want to check out these other examples which either use (to varying degrees) randomness and extreme order:  
 * Ryoji Ikeda's [*Dataphonics*](https://www.youtube.com/watch?v=WYRoMTd74Y8) (2010)    
 * Holly Herndon's [*Proto*](https://hollyherndon.bandcamp.com/album/proto) (2019)  
 * Steve Reich's [*Music for 18 Musicians*](https://www.youtube.com/watch?v=ILpCKQlDmhc) (1978)  
 * Merzbow's [*Woodpecker No. 1*](https://www.youtube.com/watch?v=uaYyMaQnqzA) (1996, flash warning)  
-* Want more? I did a [two-hour radio show on chance and randomness in music and sound for WGXC](https://wavefarm.org/radio/wgxc/schedule/076wjf)  
+* Want more? I did a [two-hour radio show on chance and randomness in music and sound for WGXC](https://wavefarm.org/radio/wgxc/schedule/076wjf) 😊  
 
