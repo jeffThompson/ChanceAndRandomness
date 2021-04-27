@@ -4,13 +4,7 @@
 
 > "The tornado [in *The Wizard of Oz*] is just such an untrustworthy, sinuous, shifting shape. Random, unfixed, it wrecks the plain shapes of that no-frills life." – Salman Rushdie  
 
-Created in 1974 by Brian Eno and Peter Schmidt, [*Oblique Strategies*](https://www.enoshop.co.uk/product/oblique-strategies.html) is a set of cards to help break out of creative block and to interject new directions into the artistic process. The first edition, now impossibly rare, was a combination of cards created separately by Eno and Schmidt (see the [*original*-original hand-drawn version here](https://www.openculture.com/2018/12/behold-original-deck-oblique-strategies-cards-handwritten-brian-eno.html)).
-
-Want your own set?  
-* [Buy them from Brian Eno for £40](https://www.enoshop.co.uk/product/oblique-strategies.html)  
-* [Abandon Normal Devices has additional cards by new media artists](https://www.andfestival.org.uk/ans)  
-* [*Grotesque Tables II*](https://www.grotesquetablesii.com/faqmobile) by Noah Wall, where all cards are anagrams of the originals  
-* If you have a ton of money lying around, you can also buy a copy of Marshall McLuhan's [*Distant Early Warning* cards](https://ericmcluhan.com/bookshop/#cards)  
+Created in 1974 by Brian Eno and Peter Schmidt, [*Oblique Strategies*](https://www.enoshop.co.uk/product/oblique-strategies.html) is a set of cards to help break out of creative block and to interject new directions into the artistic process. The first edition, now impossibly rare, was a combination of cards created separately by Eno and Schmidt (see the [*original*-original hand-drawn version here](https://www.openculture.com/2018/12/behold-original-deck-oblique-strategies-cards-handwritten-brian-eno.html)). The goal of the cards, which have inspired lots of other versions, is to break you out of creative ruts, to suggests new directions in the work, and/or to find solutions to problems in the studio.
 
 *Above: Marshall McLuhan's "Distant Early Warning" (1969) and Abandon Normal Devices' "Abandon Normal Strategies" (2020) card decks*
 
@@ -39,5 +33,15 @@ Consider:
 * Can be directed at a particular media, action, duration, mindest, etc  
 * Or be poetic and open to interpretation  
 
-When everyone is done, look through your ideas and pick approximately five that you feel excited about. Copy/paste them into [this Google spreadsheet](https://docs.google.com/spreadsheets/d/19r_zCrLL11vQRgdgbIfalCGM7Kb-qYL4gK5ddWgXeqw/edit?usp=sharing). I'll put them together into a printable set that you can use later (and that will fit nicely into the box with the full set).
+When everyone is done, look through your ideas and pick approximately five that you feel excited about. Copy/paste them into [this Google spreadsheet](https://docs.google.com/spreadsheets/d/19r_zCrLL11vQRgdgbIfalCGM7Kb-qYL4gK5ddWgXeqw/edit?usp=sharing). You can find printable versions of your cards that will fit nicely in the box with the full set in the `Resources` folder.
+
+***
+
+### WANT YOUR OWN SET?  
+While you can access them online, you can also buy a full set of *Oblique Strategies* online as well as other decks inspired by Eno and Schmidt:  
+
+* [Full deck of Oblique Strategies](https://www.enoshop.co.uk/product/oblique-strategies.html)  
+* Abandon Normal Devices' [*Abandon Normal Strategies*](https://www.andfestival.org.uk/ans), a set of additional cards by new media artists  
+* [*Grotesque Tables II*](https://www.grotesquetablesii.com/faqmobile) by Noah Wall, where all cards are anagrams of the originals  
+* If you have a ton of money lying around, you can also buy a copy of Marshall McLuhan's [*Distant Early Warning* cards](https://ericmcluhan.com/bookshop/#cards)  
 
