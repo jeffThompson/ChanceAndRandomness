@@ -2,6 +2,8 @@
 
 > "The first concern of all music in one way or another is to shatter the indifference of hearing, the callousness of sensibility, to create that moment of solution we call poetry, our rigidity dissolved when we occur reborn – in a sense hearing for the first time." – [Lucia Dlugoszewski](https://en.wikipedia.org/wiki/Lucia_Dlugoszewski)  
 
+> "The white trash boys listen to the headphones / Blasting white noise in the convenience store parking lot / I hung around there wasting my time hoping you'll stop by" – Modest Mouse, *Sleepwalking*  
+
 We'll take a pause from making things to spend some time trying to experience randomness, which we can think of as the mathematically-rigorous version of chance. While we can find randomness across many different arts fields, we'll focus here on sound, first listening to white noise (essentially just random values being heard one at a time in very rapid succession), followed by musical/sound works that embrace and push against the idea of randomness.
 
 

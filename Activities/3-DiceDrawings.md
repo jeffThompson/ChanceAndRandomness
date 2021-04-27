@@ -1,6 +1,10 @@
-# DICE DRAWINGS  
+# COIN AND DICE DRAWINGS  
 
-Having experienced a few different approaches to allowing chance into our drawings, we'll spend the rest of this section making our own set of rules with dice (or other random inputs).
+> "[Things that are] determined in general but depends on chance in details." — Werner Meyer-Eppler (1955)  
+
+> "Process art is chance, contingency and indetermination" — Robert Morris
+
+Having experienced a few different approaches to allowing chance into our drawings, we'll spend the rest of this section making our own set of rules with coins, dice, and other random inputs.
 
 **This is an algorithm!**  
 We hear the word "algorithm" a lot but really it just means a set of instructions, like a recipe, and that's exactly what we're making here! It's not such a huge leap into writing code to make drawings as well, which affords use the power of speed and repetition to make images that would be impossible otherwise.

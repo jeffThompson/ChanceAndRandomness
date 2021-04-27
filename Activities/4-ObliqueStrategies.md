@@ -1,5 +1,7 @@
 # OBLIQUE STRATEGIES    
 
+> "The tornado [in *The Wizard of Oz*] is just such an untrustworthy, sinuous, shifting shape. Random, unfixed, it wrecks the plain shapes of that no-frills life." – Salman Rushdie  
+
 Created in 1974 by Brian Eno and Peter Schmidt, [*Oblique Strategies*](https://www.enoshop.co.uk/product/oblique-strategies.html) is a set of cards to help break out of creative block and to interject new directions into the artistic process. The first edition, now impossibly rare, was a combination of cards created separately by Eno and Schmidt (see the [*original*-original hand-drawn version here](https://www.openculture.com/2018/12/behold-original-deck-oblique-strategies-cards-handwritten-brian-eno.html)).
 
 Want your own set?  
