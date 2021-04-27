@@ -12,6 +12,8 @@ In 1933, artist Jean Arp made a piece titled [*According to the Laws of Chance*]
 
 The rather balanced composition of this and other works, like the 1930 [*Constellation According to the Laws of Chance*](https://www.tate.org.uk/art/artworks/arp-constellation-according-to-the-laws-of-chance-t00242), suggest that perhaps "chance" here is more about undoing habits in the studio (more on that later) than actually leaving things exactly as they fell. But for our purposes, we'll embrace the spirit of the piece's title as a starting point for this workshop.
 
+***
+
 ### INSTRUCTIONS  
 * Take several pieces of paper and tear them into random shapes  
 * Standing up, let them fall onto the floor (one at a time or in groups)  
