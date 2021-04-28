@@ -42,7 +42,7 @@ Here are the instructions we'll try together (using the PDF in the `Resources` f
 4. Repeat  
 
 **LINES IN SQUARES**  
-Modified version of Sol LeWitt's *Work From Instructions* (1971):
+*Modified version of Sol LeWitt's *Work From Instructions* (1971):*
 
 1. Within each one inch square...  
 2. Draw nothing, or...  
@@ -51,7 +51,7 @@ Modified version of Sol LeWitt's *Work From Instructions* (1971):
 5. Repeat across entire grid  
 
 **POINTS ON TYPE**  
-For the next few exercises, you'll write your own instructions for something to do with a set of points.
+*Next, you'll write your own instructions for something to do with a set of points:*
 
 1. On a piece of scratch paper (or your computer), write down a set of simple instructions that can be carried out on a set of points  
 2. When ready, start carrying out your instructions using the points provided  
