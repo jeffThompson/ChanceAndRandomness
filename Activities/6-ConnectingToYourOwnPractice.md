@@ -2,7 +2,7 @@
 
 # CONNECTING TO YOUR OWN PRACTICE  
 
-> "If poetry has long been the locus of the expression of subjectivity... this poem, composed of random constellations, questions the very possibility of an immediate expression of the author's interiority." – Hannah Higgins, et al on *House of Dust*  
+> "If poetry has long been the locus of the expression of subjectivity... this poem, composed of random constellations, questions the very possibility of an immediate expression of the author's interiority." – Hannah Higgins, et al on [*House of Dust*](https://www.x-traonline.org/article/objectpoems-alison-knowless-feminist-architexure)  
 
 As the final part of our time together, we'll spend some time thinking and talking about ways that chance and randomness might connect to your own creative practice. The goal here isn't to upend parts of your practice that you care about or find valuable, though I encourage you to be open to that!
 
@@ -32,5 +32,5 @@ Creative practice can be a burst of inspiration, but, more often than not, I fin
 ***
 
 ### BYE!  
-Thanks so much for spending today with me talking about chance and randomness, making some weird stuff, and sharing your practices and perspectives! If you come across additional resources or have other thoughts to share, don't hesitate to email me.
+Thanks so much for spending today with me talking about chance and randomness, making some weird stuff, and sharing your practices and perspectives! If you come across additional resources or have other thoughts to share, don't hesitate to email me. 👋
 
