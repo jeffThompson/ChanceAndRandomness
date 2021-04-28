@@ -1,3 +1,5 @@
+![Composite image showing a man covered in dice and a group of sculptural devices at the edge of a forest](Images/ActivityHeaders/DiceManAndGlobalTeacupNetworkByAgnesMeyerBrandis.jpg)
+
 # CHANCE & RANDOMNESS  
 
 > "So much of life, it seems to me, is determined by pure randomness." — Sidney Poitier  
@@ -7,6 +9,8 @@
 During this one-day workshop, we'll explore chance and randomness as tools for making art. Through a series of exercises and in the context of lots of historical examples–from visual art, music, popular culture, science, and technology–we'll investigate the creative potential of letting go of artistic decisions and collaborating with chance and randomness.
 
 Along the way, we'll discuss the differences between chance, randomness, information, and entropy and discuss what happens when, to varying degrees, we remove the artist's hand in favor of mechanism and processes out of our control. The workshop will culminate in time to explore ways that the ideas we discuss could enter your own creative practice.
+
+*Above: "Dice Man" from 1590 (left) and Agnes Meyer Brandis' ["Global Teacup Network"](http://www.blubblubb.net/tea/index.html) from 2017 (right)*
 
 ***
 
