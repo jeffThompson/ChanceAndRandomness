@@ -18,7 +18,8 @@ Inside the original deck, Eno and Schmidt offer these instructions:
 
 We'll use [an online version of the cards](http://stoney.sb.org/eno/oblique.html) today as a generative, exploratory tool and as a way to start thinking about how you might incorporate the ideas we've talked about today in your own practice.
 
-* Identify a way of making (drawing, writing, sound-making, photography, movement, etc) you'd like to use during this exercise. This can be connected to your own practice or not, but should be something that allows you to pivot quickly as you draw cards  
+* Identify a way of making (drawing, writing, sound-making, photography, movement, etc) you'd like to use during this exercise. Ideally this would be connected to your own practice but that's not required  
+* Whatever process you pick, it should be something that allows you to pivot quickly as you draw cards  
 * We'll spend about 30 minutes making together, drawing a card (online) every few minutes  
 * With each new card, try to:  
   * Embrace the prompt in as open a way as you can  
