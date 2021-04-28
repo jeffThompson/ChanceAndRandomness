@@ -31,9 +31,10 @@ You can use the section at the top to access the materials we used in class (and
 | ---- | ---------- |
 | 12–12.30 | What we're going to do today, introductions, thinking about how to best structure our time online together |
 | 12.30–2 | Drawings made with [gravity](Activities/1-GravityDrawings.md), [instructions](Activities/2-InstructionDrawings.md), and [coins/dice](Activities/3-DiceDrawings.md) |
-| 2–2.45 | [Making work with *Oblique Strategies*, creating our own cards](Activities/4-ObliqueStrategies.md) |
-| 2.45–3.30 | [White noise listening session](Activities/5-WhiteNoiseListeningSession.md); works exploring noise and order |
-| 3.30–4.45 | [Connecting to your own practice](Activities/6-ConnectingToYourOwnPractice.md); the role of intention and decision-making in artistic practice |
+| 2–2.45 | [White noise listening session](Activities/4-WhiteNoiseListeningSession.md); works exploring noise and order |
+| 2.45–3 | Break |
+| 3–4 | [Making work with *Oblique Strategies*, creating our own cards](Activities/5-ObliqueStrategies.md) |
+| 4–4.45 | [Connecting to your own practice](Activities/6-ConnectingToYourOwnPractice.md); the role of intention and decision-making in artistic practice |
 
 ***
 
