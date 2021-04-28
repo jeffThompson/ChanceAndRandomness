@@ -16,15 +16,15 @@ Inside the original deck, Eno and Schmidt offer these instructions:
 
 > "These cards evolved from separate observations of the principles underlying what we were doing. Sometimes they were recognised in retrospect (intellect catching up with intuition), sometimes they were identified as they were happening, sometimes they were formulated. They can be used as a pack (a set of possibilities being continuously reviewed in the mind) or by drawing a single card from the shuffled pack when a dilemma occurs in a working situation. In this case the card is trusted even if its appropriateness is quite unclear. They are not final, as new ideas will present themselves and others will become self-evident."
 
-We'll use [an online version of the cards](http://stoney.sb.org/eno/oblique.html) today as a generative, exploratory tool:
+We'll use [an online version of the cards](http://stoney.sb.org/eno/oblique.html) today as a generative, exploratory tool and as a way to start thinking about how you might incorporate the ideas we've talked about today in your own practice.
 
-1. Identify a way of making (drawing, writing, sound-making, photography, movement, etc) you'd like to use during this exercise. This can be connected to your own practice or not, but should be something that allows you to pivot quickly as you draw cards  
-2. We'll spend about 30 minutes making together, drawing a card (online) every few minutes  
-3. With each new card, try to:  
+* Identify a way of making (drawing, writing, sound-making, photography, movement, etc) you'd like to use during this exercise. This can be connected to your own practice or not, but should be something that allows you to pivot quickly as you draw cards  
+* We'll spend about 30 minutes making together, drawing a card (online) every few minutes  
+* With each new card, try to:  
   * Embrace the prompt in as open a way as you can  
   * Respond/adjust your making as quickly as possible  
   * Don't worry if the resulting work sucks – it probably will!  
-4. If you want to, feel free to take some quick notes too, especially if you think of ways this connects to your usual practice  
+* If you want to, feel free to take some quick notes too, especially if you think of ways this connects to your usual practice  
 
 ***
 
