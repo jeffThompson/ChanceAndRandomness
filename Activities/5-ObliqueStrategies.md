@@ -39,7 +39,7 @@ Consider:
 * Can be directed at a particular media, action, duration, mindest, etc  
 * Or be poetic and open to interpretation  
 
-When everyone is done, look through your ideas and pick approximately five that you feel excited about. Copy/paste them into [this Google spreadsheet](https://docs.google.com/spreadsheets/d/19r_zCrLL11vQRgdgbIfalCGM7Kb-qYL4gK5ddWgXeqw/edit?usp=sharing). You can find printable versions of your cards that will fit nicely in the box with the full set in the `Resources` folder.
+When everyone is done, look through your ideas and pick approximately five that you feel excited about. Copy/paste them into [this Google spreadsheet](https://docs.google.com/spreadsheets/d/19r_zCrLL11vQRgdgbIfalCGM7Kb-qYL4gK5ddWgXeqw/edit?usp=sharing). You can find printable versions of the cards we created today that will fit nicely in the box with the full set in the `Resources` folder.
 
 ***
 
