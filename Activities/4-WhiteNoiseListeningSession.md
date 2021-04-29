@@ -17,7 +17,7 @@ The goal here will be to try to hear the subtle differences in sound (and random
 
 > "*Deep* has to do with complexity and boundaries, or edges beyond ordinary orhabitual understandings — i.e. 'the subject is too deep for me' or 'she is a deep one.' A subject that is 'too deep' surpasses one’s present understanding or has too many unknown parts to grasp easily. A 'deep one' defies stereotypical knowing and may take either a long time, or never to understand or get to know. *Deep* coupled with *Listening* or *Deep Listening* for me is learning to expand the perception of sounds to include the whole space/time continuum of sound—encountering the vastness and complexities as much as possible. Simultaneously one ought to be able to target a sound or sequence of sounds as a focus within the space/time continuum and to perceive the detail or trajectory of the sound or sequence of sounds. Such focus should always return to, or be within the whole of the space/time continuum (context)." – Pauline Oliveros, [*Deep Listening: A Composer's Sound Practice*](https://monoskop.org/images/2/2c/Oliveros_Pauline_Deep_Listening_A_Composers_Sound_Practice_2005.pdf)
 
-Really learning the process of deep listening takes a lot of practice, but today I'll ask you to try to fully immerse yourself in the act of listening, to hear below the surface, and to experience as fully as possible differences in pitch, intensity, tone, and patterns.
+Really learning the process of deep listening takes a lot of practice ([you can actually get certified](https://www.deeplistening.rpi.edu)), but today I'll ask you to try to fully immerse yourself in the act of listening, to hear below the surface, and to experience as fully as possible differences in pitch, intensity, tone, and patterns.
 
 Take a moment and...  
 * Turn up your audio to a comfortable but loud volume  
@@ -48,7 +48,8 @@ Having experienced varying degrees of randomness as sound, we'll listen to (part
 2. Christian Marclay's [*Record Without a Cover*](https://www.youtube.com/watch?v=4QArTJnze6c) (1999): a vinyl record in a blank sleeve with the instructions: "Do not store in a protective package"  
 3. Steve Reich's [*Pendulum Music*](https://www.youtube.com/watch?v=5iidNStQRDc) (1968), performed by Sonic Youth (1999): "I never have been close to John Cage but this piece was a way of saying 'OK, here it is but it isn't!'" ([via](https://www.furious.com/perfect/ohm/reich.html))  
 
-While we won't listen to these today, you might also want to check out these other examples which either use (to varying degrees) randomness and extreme order:  
+While we won't listen to these today, you might also want to check out these other examples which either use randomness and extreme order, to varying degrees:  
+
 * Ryoji Ikeda's [*Dataphonics*](https://www.youtube.com/watch?v=WYRoMTd74Y8) (2010)    
 * Holly Herndon's [*Proto*](https://hollyherndon.bandcamp.com/album/proto) (2019)  
 * Steve Reich's [*Music for 18 Musicians*](https://www.youtube.com/watch?v=ILpCKQlDmhc) (1978)  
