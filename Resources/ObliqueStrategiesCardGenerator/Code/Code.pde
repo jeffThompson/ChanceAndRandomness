@@ -69,10 +69,12 @@ void setup() {
   cards.add(titleCard);
   
   // load card data from file
+  // skips first column (instructions) and second (my name
+  // and more instructions)
   println("loading card data...");
   csv = loadTable(csvFilename, "header");
   String[] columns = csv.getColumnTitles();
-  for (int i=1; i<columns.length; i++) {
+  for (int i=2; i<columns.length; i++) {
     String personName = columns[i];
     String[] prompts = csv.getStringColumn(personName);
     for (String prompt : prompts) {
