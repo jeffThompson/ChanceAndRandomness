@@ -50,6 +50,7 @@ Having experienced varying degrees of randomness as sound, we'll listen to (part
 
 While we won't listen to these today, you might also want to check out these other examples which either use randomness and extreme order, to varying degrees:  
 
+* Pierre Boulez's [*Piano Sonata No. 3*](https://www.youtube.com/watch?v=DUx_SGy6bFs) (1955–57, revised through 1963)
 * Ryoji Ikeda's [*Dataphonics*](https://www.youtube.com/watch?v=WYRoMTd74Y8) (2010)    
 * Holly Herndon's [*Proto*](https://hollyherndon.bandcamp.com/album/proto) (2019)  
 * Steve Reich's [*Music for 18 Musicians*](https://www.youtube.com/watch?v=ILpCKQlDmhc) (1978)  
