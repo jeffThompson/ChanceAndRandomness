@@ -6,24 +6,9 @@
 
 > "The white trash boys listen to their headphones / Blasting white noise in the convenience store parking lot / I hung around there wasting my time hoping you'll stop by" – Modest Mouse, *Sleepwalking*  
 
-We'll take a pause from making things to spend some time trying to experience randomness, which we can think of as the mathematically-rigorous version of chance. While we can find randomness across many different arts fields, we'll focus here on sound, first listening to white noise (essentially just random values being heard one at a time in very rapid succession), followed by musical/sound works that embrace and push against the idea of randomness.
+We'll take a pause from making things to spend some time trying to experience varying degrees of randomness, which we can think of as the mathematically-rigorous version of chance. While we can find randomness across many different arts fields, we'll focus here on sound, first listening to white noise (essentially just random values being heard one at a time in very rapid succession), followed by musical/sound works that embrace and push against the idea of randomness.
 
 *Above: [SIGSALY WWII secure communications system](https://en.wikipedia.org/wiki/SIGSALY) using carefully-made records of white noise (left) and the [original random.org random number-generating system](https://www.random.org/history) using an untuned radio (right)*
-
-***
-
-### WHITE NOISE  
-
-> "Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin." – John Von Neumann (1951)  
-
-In the 20th century, defining, creating, and measuring true randomness became important for the fields of simulation, cryptography, privacy, and data security. While Von Neumann is correct that computers are essentially deterministic, current research has produced algorithms capable of generating random numbers that rival physical sources. We'll listen to recordings made from five different white noise generators, ranging from vintage, tube-driven lab equipment to cutting-edge cryptographic tools.
-
-| GENERATOR | PROPERTIES | NOTES |
-| --------- | ------ | ----- |
-| **Type 1390-B**<br>([spectrum](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/WhiteNoiseSpectrumAnalysis/Type1390-B/Type1390B-Spectrograph.png)) | <ul><li>True random</li><li>Not crypto secure</li></ul> | Built in the 1950s by General Radio Company, this lab-grade generator uses vacuum tubes to generate white noise. Of note, this generator was used by RAND Corporation for the creation of their seminal book *A Million Random Digits*, which was used extensively in statistics and scientific research for decades.<br><br>The `Type 1390-B` has a fairly even frequency distribution with slight roll-off on the bottom end and a somewhat warm tube sound. |
-| **AES_OFB**<br>([spectrum](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/WhiteNoiseSpectrumAnalysis/AES_OFB/AESOFB-Spectrograph-TINTED.png)) | <ul><li>Pseudo random</li><li>Cryptographically secure</li></ul> | One of two high-end, "gold standard" contemporary algorithms, `AES_OFB` was designed specifically for cryptographic use. Part of the `Dieharder` software suite created by George Marsaglia of Duke University, it has been extensively tested by mathematicians for randomness.<br><br>`AES_OFB` is similar to `Threefish`, but tends to perform slightly better in localized tests for randomness. Of all the generators we will hear, `AES_OFB` has the harshest, brightest sound, hinting at its pure digital source. |
-| **Congruential**<br>([spectrum](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/WhiteNoiseSpectrumAnalysis/Congruential/Congruential-Spectrograph-TINTED.png)) | <ul><li>Pseudo random</li><li>Not crypto secure</li></ul> | An early algorithm for generating pseudo-random numbers, the `Congruential` generator uses its previous output to feed into the algorithm and generate new values. Using specially chosen values in the equation, this generator can have a long period of generation before it repeats, though significantly less than the other algorithms.<br><br>A bit between the `Type 1390-B` and `AES_OFB` generators, `Congruential` sounds less harsh than newer algorithms, retaining a vintage quality. |
-| **dev/random**<br>([spectrum](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/WhiteNoiseSpectrumAnalysis/dev-random/devrandom-Spectrograph-TINTED.png)) | <ul><li>True random</li><li>Cryptographically secure</li></ul> | This generator is a mix of physical and algorithm, using entropy from the computer’s hard drive to feed a pseudo-random number generator. Like most cryptographic generators, slow generation is considered a positive quality, and `dev/random` will stop working until sufficient entropy is built up again.<br><br>From the Mac OSX manual page for the function: “The quality of its output is however dependent on regular addition of appropriate entropy... Paranoid programmers can counteract this risk somewhat by collecting entropy of their choice.”<br><br>The sound of `dev/random` tends to be clear but less harsh than `AES_OFB`. | 
 
 ***
 
@@ -41,6 +26,21 @@ Take a moment and...
 
 ***
 
+### WHITE NOISE  
+
+> "Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin." – John Von Neumann (1951)  
+
+In the 20th century, defining, creating, and measuring true randomness became important for the fields of simulation, cryptography, privacy, and data security. While Von Neumann is correct that computers are essentially deterministic, current research has produced algorithms capable of generating random numbers that rival physical sources. We'll listen to recordings made from four different white noise generators, ranging from vintage, tube-driven lab equipment to cutting-edge cryptographic tools.
+
+| GENERATOR | PROPERTIES | NOTES |
+| --------- | ------ | ----- |
+| **Type 1390-B**<br>([spectrum](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/WhiteNoiseSpectrumAnalysis/Type1390-B/Type1390B-Spectrograph.png)) | <ul><li>True random</li><li>Not crypto secure</li></ul> | Built in the 1950s by General Radio Company, this lab-grade generator uses vacuum tubes to generate white noise. Of note, this generator was used by RAND Corporation for the creation of their seminal book *A Million Random Digits*, which was used extensively in statistics and scientific research for decades.<br><br>The `Type 1390-B` has a fairly even frequency distribution with slight roll-off on the bottom end and a somewhat warm tube sound. |
+| **AES_OFB**<br>([spectrum](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/WhiteNoiseSpectrumAnalysis/AES_OFB/AESOFB-Spectrograph-TINTED.png)) | <ul><li>Pseudo random</li><li>Cryptographically secure</li></ul> | One of two high-end, "gold standard" contemporary algorithms, `AES_OFB` was designed specifically for cryptographic use. Part of the `Dieharder` software suite created by George Marsaglia of Duke University, it has been extensively tested by mathematicians for randomness.<br><br>`AES_OFB` is similar to `Threefish`, but tends to perform slightly better in localized tests for randomness. Of all the generators we will hear, `AES_OFB` has the harshest, brightest sound, hinting at its pure digital source. |
+| **Congruential**<br>([spectrum](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/WhiteNoiseSpectrumAnalysis/Congruential/Congruential-Spectrograph-TINTED.png)) | <ul><li>Pseudo random</li><li>Not crypto secure</li></ul> | An early algorithm for generating pseudo-random numbers, the `Congruential` generator uses its previous output to feed into the algorithm and generate new values. Using specially chosen values in the equation, this generator can have a long period of generation before it repeats, though significantly less than the other algorithms.<br><br>A bit between the `Type 1390-B` and `AES_OFB` generators, `Congruential` sounds less harsh than newer algorithms, retaining a vintage quality. |
+| **dev/random**<br>([spectrum](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/WhiteNoiseSpectrumAnalysis/dev-random/devrandom-Spectrograph-TINTED.png)) | <ul><li>True random</li><li>Cryptographically secure</li></ul> | This generator is a mix of physical and algorithm, using entropy from the computer’s hard drive to feed a pseudo-random number generator. Like most cryptographic generators, slow generation is considered a positive quality, and `dev/random` will stop working until sufficient entropy is built up again.<br><br>From the Mac OSX manual page for the function: “The quality of its output is however dependent on regular addition of appropriate entropy... Paranoid programmers can counteract this risk somewhat by collecting entropy of their choice.”<br><br>The sound of `dev/random` tends to be clear but less harsh than `AES_OFB`. | 
+
+***
+
 ### OTHER MUSIC/SOUNDS  
 Having experienced varying degrees of randomness as sound, we'll listen to (parts of) a few pieces that move towards order to various degrees:
 
@@ -53,5 +53,6 @@ While we won't listen to these today, you might also want to check out these oth
 * Holly Herndon's [*Proto*](https://hollyherndon.bandcamp.com/album/proto) (2019)  
 * Steve Reich's [*Music for 18 Musicians*](https://www.youtube.com/watch?v=ILpCKQlDmhc) (1978)  
 * Merzbow's [*Woodpecker No. 1*](https://www.youtube.com/watch?v=uaYyMaQnqzA) (1996, flash warning)  
+* [This great interview with Iron Curtis](https://www.youtube.com/watch?v=nPyWl8yQtEk&t=260s) on using chance operation in electronic music production  
 * Want more? I did a [two-hour radio show on chance and randomness](https://wavefarm.org/radio/wgxc/schedule/076wjf) in music and sound for WGXC 😊  
 

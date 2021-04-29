@@ -6,16 +6,16 @@
 
 > "I use chance operations instead of operating according to my likes and dislikes." — John Cage  
 
-During this one-day workshop, we'll explore chance and randomness as tools for making art. Through a series of exercises and in the context of lots of historical examples–from visual art, music, popular culture, science, and technology–we'll investigate the creative potential of letting go of artistic decisions and collaborating with chance and randomness.
+During this one-day workshop, we'll explore chance and randomness as tools for making art. Through a series of exercises and in the context of lots of examples–from visual art, music, popular culture, science, and technology–we'll investigate the creative potential of letting go of artistic decisions and collaborating with chance and randomness.
 
-Along the way, we'll discuss what happens when, to varying degrees, we remove the artist's hand in favor of mechanism and processes out of our control. The workshop will culminate in time to explore ways that the ideas we talk about could enter your own creative practice.
+Along the way, we'll discuss what happens when, to varying degrees, we remove the artist's hand in favor of mechanisms and processes out of our control. The workshop will culminate in time to explore ways that the ideas we talk about could enter your own creative practice.
 
 *Above: "Dice Man" from 1590 (left) and Agnes Meyer Brandis' ["Global Teacup Network"](http://www.blubblubb.net/tea/index.html) from 2017 (right)*
 
 ***
 
 ### WORKSHOP MATERIALS  
-You can use the section at the top to access the materials we used in class (and a bunch of stuff we don't have time to explore). 
+You can use the section at the top to access the materials we used in this workshop (and a bunch of stuff we don't have time to explore). 
 
 * `Activities`: the exercises we will do together, includes links and further resources  
 * `Images`: lots of examples, historical and contemporary  
