@@ -4,7 +4,7 @@
 
 > "The tornado [in *The Wizard of Oz*] is just such an untrustworthy, sinuous, shifting shape. Random, unfixed, it wrecks the plain shapes of that no-frills life." – Salman Rushdie  
 
-Created in 1974 by Brian Eno and Peter Schmidt, [*Oblique Strategies*](https://www.enoshop.co.uk/product/oblique-strategies.html) is a set of cards to help break out of creative block and to interject new directions into the artistic process. The first edition, now impossibly rare, was a combination of cards created separately by Eno and Schmidt (see the [*original*-original hand-drawn version here](https://www.openculture.com/2018/12/behold-original-deck-oblique-strategies-cards-handwritten-brian-eno.html)). The goal of the cards, which have inspired lots of other versions, is to break you out of creative ruts, to suggests new directions in the work, and/or to find solutions to problems in the studio.
+Created in 1974 by Brian Eno and Peter Schmidt, [*Oblique Strategies*](https://www.enoshop.co.uk/product/oblique-strategies.html) is a set of cards to help break out of creative block and to interject new directions into one's artistic process. Originally, deck was just a set of hand-drawn cards created separately by Eno and Schmidt (see it version here](https://www.openculture.com/2018/12/behold-original-deck-oblique-strategies-cards-handwritten-brian-eno.html)) but was later published for sale several times. The goal of the cards, which have inspired lots of other versions and variations, is to break you out of creative ruts, to suggests new directions in the work, and/or to find solutions to problems in the studio.
 
 *Above: Marshall McLuhan's ["Distant Early Warning"](https://ericmcluhan.com/bookshop/#cards) (1969) and Abandon Normal Devices' ["Abandon Normal Strategies"](https://www.andfestival.org.uk/ans) (2020) card decks*
 
@@ -12,7 +12,7 @@ Created in 1974 by Brian Eno and Peter Schmidt, [*Oblique Strategies*](https://w
 
 ### USING THE CARDS  
 
-Inside the original deck, Eno and Schmidt offer these instructions:
+Inside the deck, Eno and Schmidt offer these instructions:
 
 > "These cards evolved from separate observations of the principles underlying what we were doing. Sometimes they were recognised in retrospect (intellect catching up with intuition), sometimes they were identified as they were happening, sometimes they were formulated. They can be used as a pack (a set of possibilities being continuously reviewed in the mind) or by drawing a single card from the shuffled pack when a dilemma occurs in a working situation. In this case the card is trusted even if its appropriateness is quite unclear. They are not final, as new ideas will present themselves and others will become self-evident."
 
@@ -25,7 +25,7 @@ We'll use [an online version of the cards](http://stoney.sb.org/eno/oblique.html
   * Embrace the prompt in as open a way as you can  
   * Respond/adjust your making as quickly as possible  
   * Don't worry if the resulting work sucks – it probably will!  
-* If you want to, feel free to take some quick notes too, especially if you think of ways this connects to your usual practice  
+* If you want to, feel free to take some quick notes too, especially if you think of ways this connects to/has friction with your usual practice  
 
 ***
 
@@ -43,7 +43,7 @@ When everyone is done, look through your ideas and pick approximately five that 
 
 ***
 
-### WANT THE ORIGINAL DECK?  
+### WANT YOUR OWN SET OF *OBLIQUE STRATEGIES*?  
 While you can access them online, you can also buy a full set of *Oblique Strategies* as well as other decks inspired by Eno and Schmidt:  
 
 * [Original deck of *Oblique Strategies*](https://www.enoshop.co.uk/product/oblique-strategies.html)  
