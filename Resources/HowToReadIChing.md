@@ -1,4 +1,4 @@
-![Fuxi reading a trigram in a drawing by Guo Xu (1503)](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness/master/ImagesAndMedia/Week03-RandomChoices/GuoXu_FuxiReadingTrigram_1503.jpg)  
+![Ink drawing on off-white paper, showing a person holding a brush, bent over, reading a trigram pattern](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness/main/Images/Divination/GuoXu-FuxiReadingTrigram-1503.jpg)  
 
 # READING THE I-CHING  
 
@@ -8,7 +8,9 @@ Yarrow grows all over the North America, Asia, and Europe, often found along roa
 
 *Above: Fuxi (who in Chinese mythology created humanitiy, fishing, and cooking with his sister Nüwa) reading a trigram in an ink drawing by Guo Xu (1503).*
 
-## METHOD  
+***
+
+### METHOD  
 This is a somewhat simplified method meant more for generating random numbers than reading the *I Ching*. See [this post for a more detailed description](https://www.wikihow.com/Consult-the-I-Ching-Using-Yarrow-Stalk) that walks you through all the steps.  
 
 **Setup:**  
@@ -40,7 +42,9 @@ This is a somewhat simplified method meant more for generating random numbers th
 
 This becomes the bottom line of the hexagram. You can then put all your stalks back together and repeat the entire process five more times to read a full hexagram.
 
-## HOW TO USE THIS?  
+***
+
+### HOW TO USE THIS?  
 
 Cage famously used the *I Ching* in his compositions as well as written texts, lectures, and drawings. Cage's use varied from reading the *I Ching* traditionally and using the prompts to spur ideas (kind of like *Oblique Strategies*) but later he used it more as a mathematical method. [This post by Steve Marshall](https://www.biroco.com/yijing/cage.htm) goes deep into Cage's process, as does [this article](https://www.jstor.org/stable/25597623?seq=1#page_scan_tab_contents).
 
