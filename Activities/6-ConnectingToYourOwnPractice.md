@@ -10,7 +10,7 @@ Instead, it's about a few different things:
 * Finding pathways of influence outside of yourself  
 * Identifying ruts or assumptions in the studio  
 * Thinking about ways of releasing control over your creative process  
-* Looking for places of friction/disinterest when considering chance; these point to important values you hold  
+* Looking for places of friction/disinterest when considering chance; these point to important values you hold (ones that you might want to preserve, or reconsider, or explode)  
 
 *Above: installation view of Tim Knowles' ["Tree Drawing: Weeping Willow on Circular Panel"](http://www.timknowles.co.uk/Work/TreeDrawings/CircularWeepingWillow/tabid/266/Default.aspx) (2005)*
 
@@ -25,12 +25,13 @@ Workshops are chaotic and everything happens so quickly! But let's take a short 
 Creative practice can be a burst of inspiration, but, more often than not, I find that it can be really slow to ferment. You might not have any huge realizations right away, but we'll spend the last 30 minutes or so discussing: 
 
 * Everything we've done today  
-* The work we looked at/listened to  
+* The work we looked at/listened to and the readings  
+* Process and premeditation, improvisation, surprise  
 * Your reflection on your own practice  
 * And more generally the role of intentionality and careful decision-making in creative work  
 
 ***
 
-### BYE!  
-Thanks so much for spending today with me talking about chance and randomness, making some weird stuff, and sharing your practices and perspectives! If you come across additional resources or have other thoughts to share, don't hesitate to email me. 👋
+### 👋 BYE!  
+Thanks so much for spending today with me talking about chance and randomness, making some weird stuff, and sharing your practices and perspectives! If you come across additional resources or have other thoughts to share, don't hesitate to email me.
 
