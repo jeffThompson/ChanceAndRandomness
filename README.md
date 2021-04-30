@@ -6,6 +6,8 @@
 
 > "I use chance operations instead of operating according to my likes and dislikes." — John Cage  
 
+> "You see you have to get right into it, as you do with any good book, and you must become involved and experience it yourself. Then you will know something and feel something. Let us say that it provides a milieu for your experience but what you bring to it is the biggest ingredient, far more important than what is there." – Alison Knowles  
+
 During this one-day workshop, we'll explore chance and randomness as tools for making art. Through a series of exercises and in the context of lots of examples–from visual art, music, popular culture, science, and technology–we'll investigate the creative potential of letting go of artistic decisions and collaborating with chance and randomness.
 
 Along the way, we'll discuss what happens when, to varying degrees, we remove the artist's hand in favor of mechanisms and processes out of our control. The workshop will culminate in time to explore ways that the ideas we talk about could enter your own creative practice.
