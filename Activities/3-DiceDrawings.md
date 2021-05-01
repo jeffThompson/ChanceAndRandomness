@@ -42,7 +42,7 @@ Some possibilities to get your brain going:
 * Create a set of pre-defined marks; roll the dice, make a mark, and repeat until the page is filled  
 * Rules to determine how to point a camera, shoot video, and edits you make  
 * Inspired by Jackson Mac Low's [*Stein 100: A Feather Likeness of the Justice Chair*](https://poets.org/poem/stein-100-feather-likeness-justice-chair), use dice to pick from a word list and create poems from existing texts; perform the result for us  
-* Using your drawing as a [visual score to be performed](https://en.wikipedia.org/wiki/Graphic_notation_(music)  
+* Using your drawing as a [visual score to be performed](https://en.wikipedia.org/wiki/Graphic_notation_(music))  
 
 If you don't have any dice that's ok! You can use one of these online options instead:  
 * https://www.random.org/dice  
