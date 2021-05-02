@@ -1,4 +1,4 @@
-![Image of a brightly-lit gallery, ten pie-slice-shaped canvases on the wall with random-looking marks on them](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/ActivityHeaders/TimKnowles-TreeDrawing-Install-2005.jpg)
+![Image of a brightly-lit gallery, ten pie-slice-shaped canvases on the wall with random-looking marks on them](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/ImagesAndMedia/ActivityHeaders/TimKnowles-TreeDrawing-Install-2005.jpg)
 
 # CONNECTING TO YOUR OWN PRACTICE  
 

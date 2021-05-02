@@ -1,4 +1,4 @@
-![On the left, a black-and-white image of two men in military uniform standing in a room of computer equipment and two very large turntables; on the right, a messy shelf full of liquor bottles, a radio, and electronics equipment](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/ActivityHeaders/SIGSALY-RandomOrgRadioSetup.jpg)
+![On the left, a black-and-white image of two men in military uniform standing in a room of computer equipment and two very large turntables; on the right, a messy shelf full of liquor bottles, a radio, and electronics equipment](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/ImagesAndMedia/ActivityHeaders/SIGSALY-RandomOrgRadioSetup.jpg)
 
 # WHITE NOISE LISTENING SESSION  
 

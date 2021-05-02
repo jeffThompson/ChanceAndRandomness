@@ -1,4 +1,4 @@
-![A detail of "Shaehft" by James Sienna, flowing blue ripple patterns made with watercolor on an off-white background](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/ActivityHeaders/JamesSiena-Shaehft-WatercolorOnPaper-2020.jpg)
+![A detail of "Shaehft" by James Sienna, flowing blue ripple patterns made with watercolor on an off-white background](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/ImagesAndMedia/ActivityHeaders/JamesSiena-Shaehft-WatercolorOnPaper-2020.jpg)
 
 # COIN AND DICE DRAWINGS  
 

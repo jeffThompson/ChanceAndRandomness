@@ -1,4 +1,4 @@
-![Composite image showing a man covered in dice and a group of sculptural devices at the edge of a forest](Images/ActivityHeaders/DiceManAndGlobalTeacupNetworkByAgnesMeyerBrandis.jpg)
+![Composite image showing a man covered in dice and a group of sculptural devices at the edge of a forest](ImagesAndMedia/ActivityHeaders/DiceManAndGlobalTeacupNetworkByAgnesMeyerBrandis.jpg)
 
 # CHANCE & RANDOMNESS  
 

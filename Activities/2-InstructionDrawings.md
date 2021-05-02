@@ -1,4 +1,4 @@
-![Vera Molnar's 1988 work "Letters from My Mother," a drawing made in blue ballpoint pen that resembles handwriting that turns increasingly chaotic](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/ActivityHeaders/VeraMolnar-LettersFromMyMother-1988.png)
+![Vera Molnar's 1988 work "Letters from My Mother," a drawing made in blue ballpoint pen that resembles handwriting that turns increasingly chaotic](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/ImagesAndMedia/ActivityHeaders/VeraMolnar-LettersFromMyMother-1988.png)
 
 # INSTRUCTION DRAWINGS  
 

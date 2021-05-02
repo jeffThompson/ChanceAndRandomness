@@ -22,8 +22,11 @@ String venue =    "Transart Institute";  // where the workshop took place
 String date =     "May 2021";            // month/year
 String pageSize = "A4";                  // letter or A4
 
-String csvFilename =  "../TransartInstitute-May2021.csv";
-String outputFolder = "../Cards/";
+String csvFilename =    "TransartInstitute-May2021.csv";
+
+String csvFolder =      "../CardIdeation/";
+String cardBackFolder = "../CardBacks/";
+String outputFolder =   "../Cards/";
 
 int dpi =           72;
 float margin =      0.75 * dpi;
@@ -72,7 +75,7 @@ void setup() {
   // skips first column (instructions) and second (my name
   // and more instructions)
   println("loading card data...");
-  csv = loadTable(csvFilename, "header");
+  csv = loadTable(csvFolder + csvFilename, "header");
   String[] columns = csv.getColumnTitles();
   for (int i=2; i<columns.length; i++) {
     String personName = columns[i];
@@ -118,8 +121,15 @@ void setup() {
   println("generating random backs...");
   String backFilename = outputFolder + venue.replace(" ", "") + "-ReverseSide-" + pageSize + ".pdf";
   pdf = (PGraphicsPDF) beginRecord(PDF, backFilename);
+  ArrayList<String> files = listFileNames(sketchPath(cardBackFolder));
   for (int i=0; i<pageCount; i++) {
-    generateRandomBacks();
+    //generateRandomBacks();
+    int whichImage = i % files.size();
+    PImage img = loadImage(sketchPath(cardBackFolder) + files.get(whichImage));
+    img.resize(0, int(height+margin*6));
+    imageMode(CENTER);
+    image(img, width/2, height/2);  
+    imageMode(CORNER);
     if (i < pageCount-1) {
       pdf.nextPage();
     }
@@ -129,4 +139,23 @@ void setup() {
   
   // all done, bye
   exit();
+}
+
+
+ArrayList<String> listFileNames(String dir) {
+  File file = new File(dir);
+  if (file.isDirectory()) {
+    String[] allFiles = file.list();
+    ArrayList<String> names = new ArrayList<String>();
+    for (String f : allFiles) {
+      if (f.startsWith(".")) {
+        continue;
+      }
+      names.add(f);
+    }
+    return names;
+  } 
+  else {
+    return null;
+  }
 }

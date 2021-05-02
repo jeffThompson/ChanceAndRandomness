@@ -1,4 +1,4 @@
-![Side-by-side image of Marshall McLuhan's 1969 "Distant Early Warning" and Abandon Normal Devices' 2020 "Abandon Normal Strategies" card decks; on the left, a deck of cards with a label showing several parachutes and a stack of decks behind it, on the right a hand holding a card that reads "Thank your ancestors for your ideas. Write out their names. Given by Nora Al-Badri."](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/Images/ActivityHeaders/DistantEarlyWarning-AbandonNormalStrategies-CardDecks.jpg)
+![Side-by-side image of Marshall McLuhan's 1969 "Distant Early Warning" and Abandon Normal Devices' 2020 "Abandon Normal Strategies" card decks; on the left, a deck of cards with a label showing several parachutes and a stack of decks behind it, on the right a hand holding a card that reads "Thank your ancestors for your ideas. Write out their names. Given by Nora Al-Badri."](https://raw.githubusercontent.com/jeffThompson/ChanceAndRandomness-TransartInstitute/main/ImagesAndMedia/ActivityHeaders/DistantEarlyWarning-AbandonNormalStrategies-CardDecks.jpg)
 
 # OBLIQUE STRATEGIES    
 
@@ -49,5 +49,6 @@ While you can access them online, you can also buy a full set of *Oblique Strate
 * [Original deck of *Oblique Strategies*](https://www.enoshop.co.uk/product/oblique-strategies.html)  
 * Abandon Normal Devices' [*Abandon Normal Strategies*](https://www.andfestival.org.uk/ans), a set of additional cards by new media artists  
 * [*Grotesque Tables II*](https://www.grotesquetablesii.com/faqmobile) by Noah Wall, where all cards are anagrams of Eno and Schmidt's originals  
+* IDEO's [*Method Cards*](https://www.ideo.com/post/method-cards), meant for designers (costs $50 USD, but [you can find the PDF here](http://www.gillianhayes.com/Inf231F12/wp-content/uploads/2012/10/IDEOMethodCards.pdf))  
 * If you have a ton of money lying around, you can also buy a copy of Marshall McLuhan's [*Distant Early Warning* cards](https://ericmcluhan.com/bookshop/#cards)  
 
